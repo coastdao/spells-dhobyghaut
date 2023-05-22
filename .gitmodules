@@ -1,0 +1,7 @@
+[submodule "lib/dss-exec-lib"]
+	path = lib/dss-exec-lib
+	url = https://github.com/coastdao/dss-exec-lib
+	branch = dhobyghaut
+[submodule "lib/dss-test"]
+	path = lib/dss-test
+	url = https://github.com/makerdao/dss-test
